@@ -55,3 +55,9 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-angular"]
+	path = bundle/vim-angular
+	url = https://github.com/burnettk/vim-angular.git
